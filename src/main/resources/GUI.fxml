@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id = "mainPane" maxHeight="600" maxWidth="800" minHeight="600" minWidth="800" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="battle.BattleController">
+   <center>
+      <Canvas fx:id="mainCanvas" height="600.0" width="800.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
