@@ -1,8 +1,10 @@
 package bullet;
 
+import common.AuthorAnno;
 import creature.Creature;
 import javafx.geometry.Point2D;
 
+@AuthorAnno(author = "何峰彬")
 public class TrackingBullet extends Bullet {
     public TrackingBullet(Creature shooter, Creature target){
         super(shooter, target);

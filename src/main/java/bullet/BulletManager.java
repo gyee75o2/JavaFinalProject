@@ -1,5 +1,6 @@
 package bullet;
 
+import common.AuthorAnno;
 import logger.Recorder;
 import battle.BattleField;
 import creature.Creature;
@@ -9,6 +10,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
+@AuthorAnno(author = "何峰彬")
 public class BulletManager {
     private final List<Bullet> bullets = new LinkedList<>();
     private final BattleField battleField;

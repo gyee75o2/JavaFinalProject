@@ -1,8 +1,9 @@
 package position;
 
+import common.AuthorAnno;
 import creature.Creature;
 
-/** A type represents a fix point in Cartesian coordinates*/
+@AuthorAnno(author = "何峰彬")
 public class Position {
     private static final int IMAGE_SIZE = 50;
     private final int x, y;

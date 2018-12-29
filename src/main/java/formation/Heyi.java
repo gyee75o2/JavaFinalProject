@@ -1,7 +1,9 @@
 package formation;
 import battle.BattleField;
+import common.AuthorAnno;
 import creature.Creature;
 
+@AuthorAnno(author = "何峰彬")
 public class Heyi implements Formation<Creature> {
     public Heyi(){
         leaderX = 10;

@@ -1,8 +1,10 @@
 package bullet;
 
+import common.AuthorAnno;
 import creature.Creature;
 import javafx.geometry.Point2D;
 
+@AuthorAnno(author = "何峰彬")
 public class StraightBullet extends Bullet {
     private Point2D direction;
 

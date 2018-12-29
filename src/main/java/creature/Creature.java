@@ -2,6 +2,7 @@ package creature;
 
 import battle.BattleField;
 import bullet.*;
+import common.AuthorAnno;
 import javafx.scene.image.Image;
 import position.Position;
 
@@ -9,6 +10,7 @@ import java.io.InputStream;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
+@AuthorAnno(author = "何峰彬")
 public abstract class Creature implements Runnable{
     String name;
     Image image;
@@ -55,9 +57,9 @@ public abstract class Creature implements Runnable{
 
     public void Wryyyyy(){
         speed *= 5;
+        range = 10;
         if(bulletFactory instanceof HorizontalBulletFactory) {
             bulletFactory = new StraightBulletFactory();
-            range = 10;
         }
     }
 

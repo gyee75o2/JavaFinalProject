@@ -1,14 +1,18 @@
 package logger;
 
 import bullet.Bullet;
+import common.AuthorAnno;
 import creature.Creature;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
 
+@AuthorAnno(author = "何峰彬")
 public class Recorder {
     private BufferedWriter logWriter;
+    private boolean win = true;
 
     public Recorder(int rate){
         try {
@@ -65,8 +69,18 @@ public class Recorder {
         }
     }
 
+    public void writeWinner(boolean win){
+        this.win = win;
+    }
+
     public void finish(){
         try {
+
+            if(win){
+                logWriter.write("win");
+            }
+            else
+                logWriter.write("lose");
             logWriter.close();
         }catch (Exception e){
             e.printStackTrace();

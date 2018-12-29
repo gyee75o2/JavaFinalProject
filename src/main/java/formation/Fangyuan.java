@@ -1,8 +1,10 @@
 package formation;
 
+import common.AuthorAnno;
 import creature.Creature;
 import battle.BattleField;
 
+@AuthorAnno(author = "何峰彬")
 public class Fangyuan implements Formation<Creature>{
     public Fangyuan(){
         leaderX = 8;

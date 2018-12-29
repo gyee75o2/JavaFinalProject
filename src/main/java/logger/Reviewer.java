@@ -1,7 +1,11 @@
 package logger;
 
+import common.AuthorAnno;
+
 import java.io.File;
 import java.io.FileInputStream;
+
+@AuthorAnno(author = "何峰彬")
 public class Reviewer{
     private String[] frames;
     private int rate;
@@ -23,7 +27,7 @@ public class Reviewer{
 
             String[] lines = new String(content).split("\n", 2);
             rate = Integer.parseInt(lines[0]);
-            frames = lines[1].split("stop");
+            frames = lines[1].split("stop\n");
         }catch (Exception e){
             e.printStackTrace();
         }

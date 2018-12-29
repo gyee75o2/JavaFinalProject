@@ -1,5 +1,6 @@
 package battle;
 
+import common.AuthorAnno;
 import logger.Recorder;
 import logger.Reviewer;
 import creature.Creature;
@@ -24,7 +25,7 @@ import java.io.File;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-
+@AuthorAnno(author="何峰彬")
 public class BattleController {
     private static final int IMAGE_SIZE = 50;
     private static final int BULLET_SIZE = 30;
@@ -92,6 +93,14 @@ public class BattleController {
     void drawFrameViaStr(String frame){
         if(frame == null || frame.equals("\n"))
             return;
+        if(frame.equals("win")){
+            context.drawImage(new Image("win.png"), 0, 50,800,331);
+            return;
+        }
+        else if(frame.equals("lose")){
+            context.drawImage(new Image("lose.png"), 100, 25, 600, 450);
+            return;
+        }
         context.drawImage(BACKGROUND, 0, 0);
         String[] lines = frame.split("\n");
         for(String line : lines){
@@ -145,7 +154,7 @@ public class BattleController {
             @Override
             public void run() {
                 try {
-                    while (battleField.isBattle()) {
+                    while (battleField.isBattle(context, recorder)) {
                         TimeUnit.MILLISECONDS.sleep(TIME_GAP);
                     }
                 }catch (Exception e){

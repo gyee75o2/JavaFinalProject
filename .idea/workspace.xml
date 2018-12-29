@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61a3d42e-321e-413e-bd3c-8df520bd4b60" name="Default Changelist" comment="" />
+    <list default="true" id="61a3d42e-321e-413e-bd3c-8df520bd4b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/AuthorAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/default.mylog" beforeDir="false" afterPath="$PROJECT_DIR$/default.mylog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niceplay.mylog" beforeDir="false" afterPath="$PROJECT_DIR$/niceplay.mylog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niceplay2.mylog" beforeDir="false" afterPath="$PROJECT_DIR$/niceplay2.mylog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niceplay3.mylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/battle/BattleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/battle/BattleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/battle/BattleField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/battle/BattleField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/BulletManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/BulletManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/HorizontalBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/HorizontalBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/HorizontalBulletFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/HorizontalBulletFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/GrandPa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/GrandPa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/HuLuWa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/HuLuWa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Justice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Justice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Nobody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Nobody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Scorpion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Scorpion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creature/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creature/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Chonge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Chonge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Fangyuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Fangyuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Fengshi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Fengshi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Formation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Formation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Heyi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Heyi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Yanxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Yanxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Yanyue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Yanyue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/formation/Yulin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/formation/Yulin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logger/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logger/Recorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logger/Reviewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logger/Reviewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/position/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/position/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/character.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/character.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,80 +114,99 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1956425265">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3867" />
+          <entry key="md" value="80" />
+          <entry key="properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3867" />
+          <entry key="Markdown" value="80" />
+          <entry key="Properties" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Bullet" value="1" />
+          <entry key="BulletFactory" value="1" />
+          <entry key="BulletManager" value="1" />
+          <entry key="Creature" value="1" />
+          <entry key="fxml" value="1" />
+          <entry key="java" value="58" />
+          <entry key="md" value="2" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="58" />
+          <entry key="Markdown" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Program Files/Java/jdk1.8.0_191/javafx-src.zip!/javafx/scene/canvas/GraphicsContext.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53046">
-              <caret line="2634" selection-start-line="2634" selection-end-line="2634" />
+            <state relative-caret-position="84">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/creature/Creature.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-              <folding>
-                <element signature="initializer##0;class#Creature#0" />
-                <element signature="e#1475#1583#0" />
-                <element signature="e#1840#1841#0" expanded="true" />
-                <element signature="e#1880#1881#0" expanded="true" />
-                <element signature="e#1916#1917#0" expanded="true" />
-                <element signature="e#1947#1948#0" expanded="true" />
-                <element signature="e#2092#2093#0" expanded="true" />
-                <element signature="e#2126#2127#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
-                <element signature="e#2185#2186#0" expanded="true" />
-                <element signature="e#3063#3064#0" expanded="true" />
-                <element signature="e#3092#3093#0" expanded="true" />
-                <element signature="e#3127#3128#0" expanded="true" />
-                <element signature="e#3159#3160#0" expanded="true" />
-                <element signature="e#3188#3189#0" expanded="true" />
-                <element signature="e#3217#3218#0" expanded="true" />
-                <element signature="e#3247#3248#0" expanded="true" />
-                <element signature="e#3276#3277#0" expanded="true" />
-                <element signature="e#3305#3306#0" expanded="true" />
-                <element signature="e#3333#3334#0" expanded="true" />
-                <element signature="e#7846#7847#0" expanded="true" />
-                <element signature="e#7905#7906#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/logger/Recorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+            <state relative-caret-position="198">
+              <caret line="92" column="24" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#drawFrameViaStr#0;class#BattleController#0" />
+                <element signature="class#5216:5926" />
+                <element signature="method#startReview#0;class#BattleController#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/position/Position.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/logger/Reviewer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="-1207">
+              <caret line="144" column="17" lean-forward="true" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#changShe#0;class#BattleField#0" />
+                <element signature="method#validPosition#0;class#BattleField#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/common/Sorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="69" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -151,8 +215,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="689">
-                <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <first_editor relative-caret-position="241">
+                <caret line="217" column="7" lean-forward="true" selection-start-line="217" selection-start-column="7" selection-end-line="217" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,37 +224,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logger/Recorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            <state relative-caret-position="-878">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logger/Reviewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="336">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Reviewer#0;class#Reviewer#0" />
+                <element signature="method#getOneFrame#0;class#Reviewer#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/character.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/GUI.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/bullet/Bullet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+            <state relative-caret-position="126">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/formation/Formation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -210,27 +295,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getHe</find>
-      <find>snake</find>
-      <find>position</find>
-      <find>setP</find>
-      <find>randomWalk</find>
-      <find>getImag</find>
-      <find>run</find>
-      <find>grandPa</find>
-      <find>setBull</find>
-      <find>getTargets</find>
       <find>public</find>
       <find>init</find>
       <find>Key</find>
       <find>battle</find>
-      <find>isBattle</find>
       <find>cheer</find>
       <find>reborn</find>
       <find>await</find>
       <find>KeyEvent</find>
       <find>Review</find>
-      <find>display</find>
       <find>restart</find>
       <find>battleField</find>
       <find>reviewer</find>
@@ -240,38 +313,68 @@
       <find>drawGrid</find>
       <find>d</find>
       <find>Wr</find>
+      <find>isBattle</find>
+      <find>timeline</find>
+      <find>display</find>
+      <find>finish</find>
+      <find>test</find>
+      <find>drawFrame</find>
+      <find>7</find>
+      <find>snake</find>
+      <find>scorpion</find>
+      <find>shoot</find>
+      <find>bullet</find>
+      <find>drawFrameViaStr</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/GUI.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/Recorder/Recorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logger/Reviewer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Logger/Recorder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/AuthorAnno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/battle/BattleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/Bullet.java" />
         <option value="$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/position/Position.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/BulletManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/bullet/HorizontalBullet.java" />
         <option value="$PROJECT_DIR$/src/main/java/bullet/HorizontalBulletFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/Sorter.java" />
         <option value="$PROJECT_DIR$/src/main/java/creature/GrandPa.java" />
         <option value="$PROJECT_DIR$/src/main/java/creature/HuLuWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creature/Justice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/creature/Monster.java" />
         <option value="$PROJECT_DIR$/src/main/java/creature/Nobody.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creature/Snake.java" />
         <option value="$PROJECT_DIR$/src/main/java/creature/Scorpion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Recorder/Recorder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/Bullet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bullet/BulletManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/battle/BattleField.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Logger/Reviewer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/battle/BattleController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Logger/Recorder.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/character.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/creature/Snake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Chonge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Fangyuan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Fengshi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Formation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Heyi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Yanxing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Yanyue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formation/Yulin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/Recorder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logger/Reviewer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/position/Position.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/creature/Creature.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/character.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/creature/Creature.java" />
+        <option value="$PROJECT_DIR$/src/main/java/battle/BattleField.java" />
       </list>
     </option>
   </component>
@@ -298,66 +401,68 @@
     <option name="width" value="1615" />
     <option name="height" value="880" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FinalProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalProj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFinalProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FinalProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalProj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFinalProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FinalProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FinalProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalProj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFinalProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FinalProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FinalProj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFinalProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="creature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545622219964" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546085984580" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Alex\Documents\WorkSpace\java\JavaFinalProject\src\test" />
       <recent name="H:\作业\Java\FinalProj\src\main\resources" />
       <recent name="H:\作业\Java\FinalProj\src\main\java" />
     </key>
@@ -374,17 +479,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FinalProj" />
+      <module name="huluwa" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testSort.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huluwa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testSort" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSort.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huluwa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testSort" />
+      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSort.testSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="huluwa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testSort" />
+      <option name="METHOD_NAME" value="testSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.testSort.testSort" />
+      <item itemvalue="JUnit.testSort.testBubbleSort" />
+      <item itemvalue="JUnit.testSort.testQuickSort" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.testSort.testBubbleSort" />
+        <item itemvalue="JUnit.testSort.testQuickSort" />
+        <item itemvalue="JUnit.testSort.testSort" />
       </list>
     </recent_temporary>
   </component>
@@ -413,17 +559,49 @@
       <workItem from="1545558000171" duration="523000" />
       <workItem from="1545619192262" duration="3666000" />
       <workItem from="1545624846546" duration="325000" />
+      <workItem from="1546000346079" duration="4330000" />
+      <workItem from="1546058680869" duration="6369000" />
+      <workItem from="1546069095968" duration="11252000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="testSort_testSort - 2018.12.29 at 13h 40m 45s.xml">
+      <configuration name="testSort.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testSort - 2018.12.29 at 13h 41m 02s.xml">
+      <configuration name="testSort.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testSort - 2018.12.29 at 13h 46m 09s.xml">
+      <configuration name="testSort.testSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testBubbleSort - 2018.12.29 at 14h 08m 44s.xml">
+      <configuration name="testSort.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testQuickSort - 2018.12.29 at 14h 08m 52s.xml">
+      <configuration name="testSort.testQuickSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testQuickSort - 2018.12.29 at 14h 15m 45s.xml">
+      <configuration name="testSort.testQuickSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testQuickSort - 2018.12.29 at 14h 16m 23s.xml">
+      <configuration name="testSort.testQuickSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testBubbleSort - 2018.12.29 at 14h 16m 35s.xml">
+      <configuration name="testSort.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testSort_testBubbleSort - 2018.12.29 at 15h 46m 45s.xml">
+      <configuration name="testSort.testBubbleSort" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80541000" />
+    <option name="totallyTimeSpent" value="102492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29264393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30428955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,15 +610,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3275488" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39696312" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.39574468" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39574468" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.32624114" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,55 +643,14 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/logger/Reviewer.java</url>
-          <line>25</line>
+          <line>29</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="966" column="9" lean-forward="true" selection-start-line="966" selection-start-column="9" selection-end-line="966" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/GUI.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Chonge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Fangyuan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/snakebullet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/snake.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/scorpionbullet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/scorpion.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/nobodybullet.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -545,153 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/HuLuWa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="1149" column="50" lean-forward="true" selection-start-line="1149" selection-start-column="50" selection-end-line="1149" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/GrandPa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Snake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Scorpion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Nobody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Justice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/BulletManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HorizontalBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HorizontalBulletFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="151" column="37" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="92" column="47" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#changeFormation#0;class#BattleController#0" />
-            <element signature="method#startBattle#0;class#BattleController#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,51 +696,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/logger/Recorder.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/sortTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+        <state relative-caret-position="166">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HealingTrackingBulletFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HorizontalBulletFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/StraightBulletFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/TrackingBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/TrackingBulletFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/AuthorAnno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/HuLuWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Scorpion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Chonge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Fangyuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Fengshi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Heyi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Yanxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Yanyue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Yulin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/position/Position.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/logger/Reviewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/Bullet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="84">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -755,47 +857,400 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/character.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="567">
+          <caret line="27" column="8" selection-start-line="27" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bullet.Bullet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bullet.Bullet</OriginalElement>
+          <nodes>
+            <node x="20.0" y="80.0">bullet.Bullet</node>
+            <node x="0.0" y="0.0">common.AuthorAnno</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bullet.Bullet" target="common.AuthorAnno">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-219.0" y="-31.5" />
+          <SelectedNodes>
+            <node>bullet.Bullet</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bullet.BulletFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bullet.BulletFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="80.0">bullet.Bullet</node>
+            <node x="5.25" y="0.0">common.AuthorAnno</node>
+            <node x="3.25" y="160.0">bullet.BulletFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bullet.BulletFactory" target="bullet.Bullet">
+              <point x="-31.0" y="-15.0" />
+              <point x="34.25" y="135.0" />
+              <point x="40.0" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="bullet.Bullet" target="common.AuthorAnno">
+              <point x="0.0" y="-15.0" />
+              <point x="40.0" y="55.0" />
+              <point x="35.25" y="55.0" />
+              <point x="-30.0" y="15.0" />
+            </edge>
+            <edge source="bullet.BulletFactory" target="common.AuthorAnno">
+              <point x="31.0" y="-15.0" />
+              <point x="96.25" y="135.0" />
+              <point x="90.5" y="135.0" />
+              <point x="90.5" y="55.0" />
+              <point x="95.25" y="55.0" />
+              <point x="30.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-215.0" y="8.5" />
+          <SelectedNodes>
+            <node>bullet.Bullet</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bullet.BulletManager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bullet.BulletManager</OriginalElement>
+          <nodes>
+            <node x="808.75" y="80.0">bullet.TrackingBullet</node>
+            <node x="500.74999999999994" y="80.0">bullet.HorizontalBullet</node>
+            <node x="608.2499999999999" y="0.0">bullet.Bullet</node>
+            <node x="621.0" y="160.0">bullet.HorizontalBulletFactory</node>
+            <node x="661.75" y="80.0">bullet.StraightBullet</node>
+            <node x="427.99999999999994" y="160.0">bullet.TrackingBulletFactory</node>
+            <node x="0.0" y="160.0">bullet.HealingTrackingBulletFactory</node>
+            <node x="356.74999999999994" y="80.0">bullet.BulletFactory</node>
+            <node x="0.0" y="235.0">bullet.BulletManager</node>
+            <node x="237.99999999999994" y="160.0">bullet.StraightBulletFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bullet.StraightBulletFactory" target="bullet.BulletFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="322.99999999999994" y="140.0" />
+              <point x="403.24999999999994" y="140.0" />
+              <point x="-15.5" y="15.0" />
+            </edge>
+            <edge source="bullet.HorizontalBullet" target="bullet.Bullet">
+              <point x="0.0" y="-15.0" />
+              <point x="571.2499999999999" y="60.0" />
+              <point x="638.2499999999999" y="60.0" />
+              <point x="-10.0" y="15.0" />
+            </edge>
+            <edge source="bullet.BulletFactory" target="bullet.Bullet">
+              <point x="0.0" y="-15.0" />
+              <point x="418.74999999999994" y="50.0" />
+              <point x="618.2499999999999" y="50.0" />
+              <point x="-30.0" y="15.0" />
+            </edge>
+            <edge source="bullet.TrackingBulletFactory" target="bullet.BulletFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="514.4999999999999" y="140.0" />
+              <point x="434.24999999999994" y="140.0" />
+              <point x="15.5" y="15.0" />
+            </edge>
+            <edge source="bullet.TrackingBullet" target="bullet.Bullet">
+              <point x="0.0" y="-15.0" />
+              <point x="873.75" y="50.0" />
+              <point x="678.25" y="50.0" />
+              <point x="30.0" y="15.0" />
+            </edge>
+            <edge source="bullet.HealingTrackingBulletFactory" target="bullet.BulletFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="109.0" y="130.0" />
+              <point x="372.24999999999994" y="130.0" />
+              <point x="-46.5" y="15.0" />
+            </edge>
+            <edge source="bullet.StraightBullet" target="bullet.Bullet">
+              <point x="0.0" y="-15.0" />
+              <point x="725.25" y="60.0" />
+              <point x="658.2499999999999" y="60.0" />
+              <point x="10.0" y="15.0" />
+            </edge>
+            <edge source="bullet.HorizontalBulletFactory" target="bullet.BulletFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="713.0" y="130.0" />
+              <point x="465.24999999999994" y="130.0" />
+              <point x="46.5" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="161.0" y="-31.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/creature.Creature">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>creature.Creature</OriginalElement>
+          <nodes>
+            <node x="454.0" y="240.0">creature.Nobody</node>
+            <node x="62.5" y="160.0">creature.Justice</node>
+            <node x="232.0" y="240.0">creature.Scorpion</node>
+            <node x="186.74537037037038" y="80.0">creature.Creature</node>
+            <node x="352.0" y="240.0">creature.Snake</node>
+            <node x="335.55555555555554" y="160.0">creature.Monster</node>
+            <node x="184.74537037037038" y="0.0">java.lang.Runnable</node>
+            <node x="0.0" y="240.0">creature.HuLuWa</node>
+            <node x="116.0" y="240.0">creature.GrandPa</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="creature.Monster" target="creature.Creature">
+              <point x="0.0" y="-15.0" />
+              <point x="384.05555555555554" y="135.0" />
+              <point x="260.2453703703704" y="135.0" />
+              <point x="24.5" y="15.0" />
+            </edge>
+            <edge source="creature.HuLuWa" target="creature.Justice">
+              <point x="0.0" y="-15.0" />
+              <point x="48.0" y="215.0" />
+              <point x="84.25" y="215.0" />
+              <point x="-21.75" y="15.0" />
+            </edge>
+            <edge source="creature.Snake" target="creature.Monster">
+              <point x="0.0" y="-15.0" />
+              <point x="393.0" y="215.0" />
+              <point x="384.05555555555554" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="creature.Scorpion" target="creature.Monster">
+              <point x="0.0" y="-15.0" />
+              <point x="282.0" y="215.0" />
+              <point x="351.72222222222223" y="215.0" />
+              <point x="-32.333333333333314" y="15.0" />
+            </edge>
+            <edge source="creature.Nobody" target="creature.Monster">
+              <point x="0.0" y="-15.0" />
+              <point x="502.0" y="215.0" />
+              <point x="416.3888888888889" y="215.0" />
+              <point x="32.33333333333337" y="15.0" />
+            </edge>
+            <edge source="creature.Justice" target="creature.Creature">
+              <point x="0.0" y="-15.0" />
+              <point x="106.0" y="135.0" />
+              <point x="211.24537037037038" y="135.0" />
+              <point x="-24.5" y="15.0" />
+            </edge>
+            <edge source="creature.GrandPa" target="creature.Justice">
+              <point x="0.0" y="-15.0" />
+              <point x="164.0" y="215.0" />
+              <point x="127.75" y="215.0" />
+              <point x="21.75" y="15.0" />
+            </edge>
+            <edge source="creature.Creature" target="java.lang.Runnable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-143.5" y="8.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Justice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/Nobody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/creature/GrandPa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/creature/Creature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="363">
+          <caret line="153" column="17" lean-forward="true" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
           <folding>
             <element signature="initializer##0;class#Creature#0" />
-            <element signature="e#1475#1583#0" />
-            <element signature="e#1840#1841#0" expanded="true" />
-            <element signature="e#1880#1881#0" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-            <element signature="e#1947#1948#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2126#2127#0" expanded="true" />
-            <element signature="e#2158#2159#0" expanded="true" />
-            <element signature="e#2185#2186#0" expanded="true" />
-            <element signature="e#3063#3064#0" expanded="true" />
-            <element signature="e#3092#3093#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-            <element signature="e#3159#3160#0" expanded="true" />
-            <element signature="e#3188#3189#0" expanded="true" />
-            <element signature="e#3217#3218#0" expanded="true" />
-            <element signature="e#3247#3248#0" expanded="true" />
-            <element signature="e#3276#3277#0" expanded="true" />
-            <element signature="e#3305#3306#0" expanded="true" />
-            <element signature="e#3333#3334#0" expanded="true" />
-            <element signature="e#7846#7847#0" expanded="true" />
-            <element signature="e#7905#7906#0" expanded="true" />
+            <element signature="e#1643#1845#0" />
+            <element signature="e#2008#2107#0" />
+            <element signature="e#2246#2843#0" />
+            <element signature="e#2849#3004#0" />
+            <element signature="e#3010#3086#0" />
+            <element signature="e#4579#5173#0" />
+            <element signature="e#5179#5892#0" />
+            <element signature="e#5898#6758#0" />
+            <element signature="e#6764#7851#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/BulletManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="79" column="32" lean-forward="true" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/HorizontalBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/StraightBullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1207">
+          <caret line="144" column="17" lean-forward="true" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#changShe#0;class#BattleField#0" />
+            <element signature="method#validPosition#0;class#BattleField#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/Recorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/GUI.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logger/Reviewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Reviewer#0;class#Reviewer#0" />
+            <element signature="method#getOneFrame#0;class#Reviewer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/battle/BattleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#drawFrameViaStr#0;class#BattleController#0" />
+            <element signature="class#5216:5926" />
+            <element signature="method#startReview#0;class#BattleController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bullet/BulletFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formation/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="689">
-            <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <first_editor relative-caret-position="241">
+            <caret line="217" column="7" lean-forward="true" selection-start-line="217" selection-start-column="7" selection-end-line="217" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -853,7 +1308,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FinalProj</last-edited>
+          <last-edited>huluwa</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -866,6 +1321,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

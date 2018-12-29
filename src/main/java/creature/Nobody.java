@@ -1,9 +1,11 @@
 package creature;
 
 import battle.BattleField;
+import common.AuthorAnno;
 
 import java.util.List;
 
+@AuthorAnno(author = "何峰彬")
 public class Nobody extends Monster{
     public Nobody(BattleField battleField){
         super(battleField);

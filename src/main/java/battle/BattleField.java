@@ -1,5 +1,6 @@
 package battle;
 
+import common.AuthorAnno;
 import logger.Recorder;
 import bullet.*;
 import creature.*;
@@ -13,6 +14,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+@AuthorAnno(author ="何峰彬")
 public class BattleField {
     private static final int M=12, N = 16;
     private static final int IMAGE_SIZE = 50;
@@ -191,7 +193,7 @@ public class BattleField {
         return str;
     }
 
-    public boolean isBattle(){
+    boolean isBattle(GraphicsContext context, Recorder recorder){
         boolean monsterAllDead = snake.isDead();
         boolean justiceAllDead = grandPa.isDead();
         if(monsterAllDead){
@@ -210,10 +212,13 @@ public class BattleField {
                 }
             }
         }
-        if(justiceAllDead)
-            System.out.println("Monster Win!");
-        else if(monsterAllDead)
-            System.out.println("Justice Win!");
+        if(justiceAllDead){
+            recorder.writeWinner(false);
+            context.drawImage(new Image("lose.png"), 100, 25, 600, 450);
+        }else if(monsterAllDead){
+            recorder.writeWinner(true);
+            context.drawImage(new Image("win.png"), 0, 50,800,331);
+        }
         isBattle = !justiceAllDead && !monsterAllDead;
         return isBattle;
     }

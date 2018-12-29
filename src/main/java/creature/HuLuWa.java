@@ -1,16 +1,27 @@
 package creature;
 
 import battle.BattleField;
+import common.AuthorAnno;
 import javafx.scene.image.Image;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class HuLuWa extends Justice {
+@AuthorAnno(author = "何峰彬")
+public class HuLuWa extends Justice implements Comparable<HuLuWa>{
     private final Color color;
     private final Seniority seniority;
-    private static List<HuLuWa> instances = new ArrayList<>();
     private static int count = 0;
+
+    public int compareTo(HuLuWa tar){
+        if(tar.color.ordinal() < this.color.ordinal()){
+            return -1;
+        }
+        else if(tar.color.ordinal() > this.color.ordinal())
+            return 1;
+        else
+            return 0;
+    }
 
     public HuLuWa(BattleField battleField){
         super(battleField);

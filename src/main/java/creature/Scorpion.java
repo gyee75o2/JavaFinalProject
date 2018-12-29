@@ -1,10 +1,12 @@
 package creature;
 
 import battle.BattleField;
+import common.AuthorAnno;
 import javafx.scene.image.Image;
 
 import java.util.List;
 
+@AuthorAnno(author = "何峰彬")
 public class Scorpion extends Monster {
     public Scorpion(BattleField battleField){
         super(battleField);

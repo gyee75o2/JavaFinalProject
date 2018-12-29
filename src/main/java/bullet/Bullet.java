@@ -1,11 +1,13 @@
 package bullet;
 
+import common.AuthorAnno;
 import creature.Creature;
 import javafx.scene.image.Image;
 
 import java.util.HashMap;
 import java.util.Map;
 
+@AuthorAnno(author = "何峰彬")
 public abstract class Bullet {
     static final int IMAGE_SIZE = 50;
     static final Map<String, Image> images = new HashMap<>();
