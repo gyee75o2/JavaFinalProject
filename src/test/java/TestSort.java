@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class testSort {
+public class TestSort {
     @Test
     public void testBubbleSort(){
         List<Integer> result = new ArrayList<>();
